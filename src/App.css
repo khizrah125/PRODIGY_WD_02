@@ -1,0 +1,17 @@
+html, body, #root, .App {
+  height: 100%;
+  margin: 0;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.container {
+  max-width: 400px; /* Adjust the maximum width as needed */
+  width: 100%;
+
+}
